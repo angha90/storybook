@@ -1,0 +1,5 @@
+export const turboFormTestId = 'form-test-id'
+export const turboFormInputUserTestId = 'form-field-user'
+export const turboFormInputEmailTestId = 'form-field-email'
+export const turboFormInputPasswordTestId = 'form-field-password'
+export const turboFormButtonGuardarTestId = 'form-action-guardar'
