@@ -1,0 +1,5 @@
+export const BoostFormTestId = 'form-test-id'
+export const BoostFormInputUserTestId = 'form-field-user'
+export const BoostFormInputEmailTestId = 'form-field-email'
+export const BoostFormInputPasswordTestId = 'form-field-password'
+export const BoostFormButtonGuardarTestId = 'form-action-guardar'
