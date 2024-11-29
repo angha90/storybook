@@ -22,7 +22,11 @@ This project is a **UI library** developed using **Next.js** with a focus on **r
 - **Tailwind CSS**: For styling and design consistency.
 - **React Testing Library**: For unit and integration testing.
 ## Demo
+
+### Button stories
+
 ![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
 This library is being developed with **Storybook**, which serves as an interactive platform to preview components and their use cases.
 
 
