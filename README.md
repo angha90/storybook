@@ -25,31 +25,31 @@ This project is a **UI library** developed using **Next.js** with a focus on **r
 
 ### Button stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/storybook-stories.gif)
 
 ### InputText stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/input-text-stories.gif)
 
 ### InputPassword stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/input-password-stories.gif)
 
 ### Typography stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/typography-stories.gif)
 
 ### InputTextController stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/input-text-controller-stories.gif)
 
 ### InputPasswordController stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/input-password-controller-stories.gif)
 
 ### BoostForm stories
 
-![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+![Storybook Button GIF](src/common/assets/images/boost-form-stories.gif)
 
 This library is being developed with **Storybook**, which serves as an interactive platform to preview components and their use cases.
 
