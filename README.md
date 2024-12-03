@@ -27,6 +27,30 @@ This project is a **UI library** developed using **Next.js** with a focus on **r
 
 ![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
 
+### InputText stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
+### InputPassword stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
+### Typography stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
+### InputTextController stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
+### InputPasswordController stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
+### BoostForm stories
+
+![Storybook Button GIF](src/common/assets/images/storybook-button.gif)
+
 This library is being developed with **Storybook**, which serves as an interactive platform to preview components and their use cases.
 
 
